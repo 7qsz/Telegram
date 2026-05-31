@@ -1,0 +1,12 @@
+{
+    "phone_number": "+15862234715",
+    "api_id": 29232285,
+    "api_hash": "a21654c09b8eba384b70f202d37a15b4",
+    "messageToForward": [
+        "https://t.me/temp5522/430"
+    ],
+    "time": 20,
+    "proxyless": true,
+    "smart_switch": true,
+    "logs_channel": null
+}
